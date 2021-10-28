@@ -1,0 +1,14 @@
+1. #Tuple adalah baris dari tabel
+   #attribute adalah menjelaskan dari suatu entitas misal entitas mahasiswa mempunyai 
+    atribut NPM
+   #relation adalah hubungan antara satu tabel dengan tabel lainnya
+2.a.Pada tabel mahasiswa terdapat artribut NPM, Nama, Jenis Kelamin, Jurusan, 
+dan IPK
+  b. tuple 1 NPM 57119789, tuple 2 Jurusan Hukum, tuple 3 IPK 3.17	
+  c. 57119789 Andi Gunawan Laki - Laki Akuntansi 3.29
+3.Primary key adalah sebuah key yang menjadi kode unik untuk membedakan baris 
+satu dengan baris lainnya, sedangkan candidate key adalah untuk mengindetifikasi
+suatu record misal 57119789 bertindak sebagai primary key jadi candidate key nya 
+adalah Andi Gunawan 
+
+
